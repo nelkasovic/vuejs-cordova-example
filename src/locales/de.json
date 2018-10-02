@@ -1,0 +1,31 @@
+{
+  "title": "VueJS Cordova Beispiel",
+  "showSample": "Code Beispiele zeigen",
+  "drawer": {
+    "home": "Startseite",
+    "vibration": "Vibration",
+    "camera": "Kamera",
+    "flash": "Blitz",
+    "localisation": "Lokalisierung",
+    "nfc": "Nfc"
+  },
+  "see_on_github": "Auf GitHub ansehen",
+  "getPosition": "Empfange Positionsdaten",
+  "positionNotAvailable": "Position kann nicht ermittelt werden",
+  "startVibration": "Starte Vibration",
+  "flashlight": {
+    "start": "Starte Blitzlicht",
+    "stop": "Stoppe Blitzlicht",
+    "notAvailable": "Plugin nicht installiert"
+  },
+  "nfcText": {
+    "waitingTag": "Scanne ein TAG…",
+    "tagSerial": "Seriennummer",
+    "notAvailable": "Gerät nicht unterstützt",
+    "showSettings": "Aktiviere NFC",
+    "history": "History",
+    "noHistory": "Leer"
+  },
+  "takePhoto": "Bild aufnehmen",
+  "error": "Nicht verfügbar"
+}
